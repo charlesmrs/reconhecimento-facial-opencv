@@ -56,7 +56,8 @@ python seu_arquivo_de_codigo.py
 ---
 
 Desenvolvido por **[Charles Moraes Rodrigues]**
-Conecte-se comigo no [LinkedIn](www.linkedin.com/in/charles-moraes-rodrigues-06250967)!
+Conecte-se comigo no [LinkedIn] www.linkedin.com/in/charles-moraes-rodrigues-06250967
+
 
 
 
